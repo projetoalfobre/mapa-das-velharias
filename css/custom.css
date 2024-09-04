@@ -1,0 +1,50 @@
+body{background-color: #eeeeee; 
+  display: flex;
+  min-height: 100vh;
+  flex-direction: column;}
+
+/*
+.map { height: calc(100vh - 64px );}
+*/
+
+.map { flex: 1 0 auto;}
+
+
+#modalwelcome1{height: 50vh;}
+
+#welcome-cravo {
+    max-width: 80% !important;
+}
+
+#welcome-title {
+    font-family: 'Roboto Slab', serif; font-weight: 900;font-size:8vw;;
+}
+
+#welcome-subtitle {
+    font-family: 'Roboto Slab', serif; font-weight: 400;font-size:3vw;;
+}
+
+
+.serif{
+    font-family: 'Roboto Slab', serif; font-weight: 400;
+}
+
+h1, h2, h3, h4, h5, h6 {font-family: 'Roboto Slab', serif; font-weight: 400;}
+
+.brand-logo {margin-left: 10px; font-family: 'Roboto Slab', serif; font-weight: 900; font-size: 1.7em !important;}
+
+.introcopyright{padding: 1em 1em 4px 6px !important; font-size: 0.8rem;
+}
+
+  .cravo{height: 64px;
+    line-height: 64px;
+    display: block;
+  font-size: 24px;
+  }
+
+  .modal.bottom-sheet {max-height: 65%;}
+
+  .modal.modal-fixed-footer .modal-footer {
+    border-top: 0px solid rgba(0,0,0,0.1) !important;
+
+  }
