@@ -12,16 +12,16 @@ body{background-color: #eeeeee;
 
 #modalwelcome1{height: 50vh;}
 
-#welcome-cravo {
-    max-width: 80% !important;
+.welcome-cravo {
+    max-width: 70% !important;
 }
 
 #welcome-title {
-    font-family: 'Roboto Slab', serif; font-weight: 900;font-size:6vw;;
+    font-family: 'Roboto Slab', serif; font-weight: 900;font-size:2em;;
 }
 
 #welcome-subtitle {
-    font-family: 'Roboto Slab', serif; font-weight: 400;font-size:4vw;;
+    font-family: 'Roboto Slab', serif; font-weight: 400;
 }
 
 
